@@ -2,6 +2,4 @@
 
 # Responsive-Landing-page
 
-Landing page responsiva que fiz durante um curso no Alura
-
-A responsive landing page I made in one of Alura courses.
+Landing page responsiva que fiz durante um curso no Alura.
